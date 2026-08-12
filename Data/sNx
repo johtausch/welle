@@ -1,0 +1,24 @@
+s0a nNonZeroA=4.900800e+04  nFcefceIA=5.236800e+04 nIntegralsTotal=2.093760e+05 setupTime=4.715125e-01 solveTime = 3.850184e-03
+s0b nNonZeroA=9.398400e+04  nFcefceIA=9.734400e+04 nIntegralsTotal=4.206560e+05 setupTime=9.022170e-01 solveTime = 1.575495e-02
+s0c nNonZeroA=1.836960e+05  nFcefceIA=1.870560e+05 nIntegralsTotal=8.362400e+05 setupTime=1.813027e+00 solveTime = 6.260416e-02
+s0d nNonZeroA=3.624960e+05  nFcefceIA=3.658560e+05 nIntegralsTotal=1.651040e+06 setupTime=3.641324e+00 solveTime = 3.787725e-01
+s0e nNonZeroA=7.204800e+05  nFcefceIA=7.238400e+05 nIntegralsTotal=3.280976e+06 setupTime=6.838564e+00 solveTime = 9.620714e-01
+
+s1a nNonZeroA=4.411680e+05  nFcefceIA=5.099040e+05 nIntegralsTotal=1.726752e+06 setupTime=3.407511e+00 solveTime = 3.980307e+00
+s1b nNonZeroA=8.124960e+05  nFcefceIA=8.812320e+05 nIntegralsTotal=3.377184e+06 setupTime=8.251651e+00 solveTime = 3.988405e+00
+s1c nNonZeroA=1.549968e+06  nFcefceIA=1.618704e+06 nIntegralsTotal=6.661296e+06 setupTime=1.586463e+01 solveTime = 5.867530e+00
+s1d nNonZeroA=3.025008e+06  nFcefceIA=3.093744e+06 nIntegralsTotal=1.321800e+07 setupTime=3.097609e+01 solveTime = 1.520235e+01
+s1e nNonZeroA=5.974608e+06  nFcefceIA=6.043344e+06 nIntegralsTotal=2.630429e+07 setupTime=5.621650e+01 solveTime = 4.790974e+01
+
+s2a nNonZeroA=4.144224e+06  nFcefceIA=5.303904e+06 nIntegralsTotal=1.438776e+07 setupTime=2.468513e+01 solveTime = 1.611002e+01
+s2b nNonZeroA=7.124352e+06  nFcefceIA=8.284032e+06 nIntegralsTotal=2.760768e+07 setupTime=6.108267e+01 solveTime = 3.679882e+01
+s2c nNonZeroA=1.308216e+07  nFcefceIA=1.424184e+07 nIntegralsTotal=5.413397e+07 setupTime=1.294217e+02 solveTime = 5.583610e+01
+s2d nNonZeroA=2.498136e+07  nFcefceIA=2.614104e+07 nIntegralsTotal=1.069501e+08 setupTime=2.521483e+02 solveTime = 1.261528e+02
+s2e nNonZeroA=4.877976e+07  nFcefceIA=4.993944e+07 nIntegralsTotal=2.125647e+08 setupTime=4.863241e+02 solveTime = 3.908093e+02
+
+
+s3a nNonZeroA=4.263605e+07  nFcefceIA=6.137947e+07 nIntegralsTotal=1.249805e+08 setupTime=2.392575e+02 solveTime = 3.929237e+02
+s3b nNonZeroA=4.263605e+07  nFcefceIA=6.137947e+07 nIntegralsTotal=1.249805e+08 setupTime=2.367662e+02 solveTime = 3.970349e+02
+s3c nNonZeroA=1.142695e+08  nFcefceIA=1.330640e+08 nIntegralsTotal=4.445256e+08 setupTime=1.040855e+03 solveTime = 2.138550e+02
+s3d nNonZeroA=2.097090e+08  nFcefceIA=2.285035e+08 nIntegralsTotal=8.702290e+08 setupTime=1.959415e+03 solveTime = 6.609430e+02
+s3e nNonZeroA=4.005943e+08  nFcefceIA=4.193888e+08 nIntegralsTotal=1.721697e+09 setupTime=3.849451e+03 solveTime = 2.740853e+03
