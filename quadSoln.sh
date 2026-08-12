@@ -1,0 +1,21 @@
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=2 >  ./Data/u0a 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=3 >  ./Data/u0b 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=5 >  ./Data/u0c 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=7 >  ./Data/u0d 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=9 >  ./Data/u0e 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=11 >  ./Data/u0f 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=13 >  ./Data/u0g 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=15 >  ./Data/u0h 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=17 >  ./Data/u0i 
+./welle -j=2 ./Meshes/sphere0 -T=20 -N=400 -q=19 >  ./Data/u0k 
+
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=2 >  ./Data/u1a 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=3 >  ./Data/u1b 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=5 >  ./Data/u1c 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=7 >  ./Data/u1d 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=9 >  ./Data/u1e 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=11 >  ./Data/u1f 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=13 >  ./Data/u1g 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=15 >  ./Data/u1h 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=17 >  ./Data/u1i 
+./welle -j=2 ./Meshes/sphere1 -T=20 -N=400 -q=19 >  ./Data/u1k 
