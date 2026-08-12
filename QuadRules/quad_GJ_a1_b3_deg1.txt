@@ -1,0 +1,5 @@
+Gauss-Jacobi alf=1.000000 bet=3.000000 weights/abscissas
+deg: 1
+dim: 1
+nodes: 1
+5.000000000000000971e-02 3.333333333333333148e-01
