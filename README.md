@@ -10,6 +10,9 @@ The code can be easily adapted to work with other scatterers as well.
 The appropriate quadrature rules for the numerical integration are also
 provided. 
 
+A detailed description of what this code does is in the paper
+Space-Time Galerkin Boundary Element Method for the Wave Equation
+by Johannes Tausch
 
 
 The code depends on the lapack and blas package which must be
